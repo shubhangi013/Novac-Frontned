@@ -61,7 +61,6 @@
   flex-wrap: wrap;
 }
 .teamCard{
-  /* height: 500px; */
   padding: 35px;
   margin: 30px;
   display: flex;
@@ -98,7 +97,6 @@
   margin-bottom: 15px;
 }
 .image{
-  height: 70%;
   width: 80%;
   margin: 80px 50px;
   overflow: hidden;
