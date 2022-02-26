@@ -7,6 +7,9 @@
   .content span{
       margin: 6px;
   }
+  a{
+    text-decoration: none;
+  }
   .content p{
       width: 35%;
       margin-top:30px;

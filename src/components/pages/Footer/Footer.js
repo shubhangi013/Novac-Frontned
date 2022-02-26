@@ -76,7 +76,7 @@ function Footer() {
               NOVAC
             </Link>
           </div>
-          <small className='website-rights'>All rights reserved© 2020</small>
+          <small className='website-rights'>All rights reserved© 2022</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'

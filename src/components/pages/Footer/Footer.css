@@ -5,6 +5,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: justify;
   }
   
   .footer-subscription {
@@ -45,8 +46,8 @@
   }
   
   .footer-links {
-    width: 100%;
-    max-width: 1000px;
+    width: auto;
+    max-width: auto;
     display: flex;
     justify-content: center;
   }

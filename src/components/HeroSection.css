@@ -128,10 +128,13 @@
   margin: 10px 10px;
   border-radius: 12px;
 }
+
 .description{
+  justify-content: auto;
+  text-align: justify;
   color: #fff;
-  margin: 120px 50px;
-  width: 350px;
+  margin: 100px 50px;
+  width: 500px;
 }
 .description h2{
   font-size: 40px;
@@ -139,8 +142,9 @@
 }
 .description p{
   font-size: 20px;
-  width: 280px;
+  width: 500px;
   margin-bottom: 30px;
+
 }
 .description a{
   color: #5BE584;
@@ -148,6 +152,7 @@
   box-sizing: border-box;
   border-radius: 8px;
   padding: 10px;
+  text-decoration: none;
 }
 .description a:hover{
   background-color: #5BE584;
